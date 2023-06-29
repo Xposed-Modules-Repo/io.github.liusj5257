@@ -9,3 +9,6 @@
 * 誓约之戒
 * 皮肤预览功能
 
+# 请我喝杯奶茶
+
+[爱发电大舞台](https://afdian.net/a/azurlane_anti_name)
