@@ -10,6 +10,10 @@
 * 誓约之戒
 * 皮肤预览功能
 
+# 详细信息看原仓库
+
+https://github.com/liusj5257/azurlane_anti_name
+
 # 请我喝杯奶茶
 
 [爱发电大舞台](https://afdian.net/a/azurlane_anti_name)
